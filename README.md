@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Go, Angular, Microservice Oriented Programming and English.**
 
-- 💬 Ask me about **Java 8/11 and Spring**
+- 💬 Ask me about **Java 8,11 and 17 and Spring**
 
 - 📫 How to reach me **lucasarielfranco1@gmail.com**
 
